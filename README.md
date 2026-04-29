@@ -63,3 +63,10 @@ Primero se evalúa la **documentación y justificación de la idea**; después, 
 - System Information Reporter
 - File Organizer
 - Command Line Learning Game
+
+## Integración opcional con Wokwi (si aplica)
+Si tu práctica se hará en Wokwi con Python, agrega y mantiene estos archivos:
+- `wokwi/main.py`
+- `wokwi/diagram.json`
+
+Esto permite entregar explícitamente el `.py` y el `.json` que te pidan en clase.
